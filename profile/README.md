@@ -1,33 +1,36 @@
-<div align="center">
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/354078070?s=400&v=4" alt="Amadeus Worldwide — AW crest" width="144" height="144">
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/354078070?s=400&v=4" alt="Amadeus Worldwide — AW crest" width="156">
+<h1 align="center">Private travel, personally arranged.</h1>
 
-# Every journey. Personally arranged.
+<p align="center">
+  Professional chauffeured transportation and thoughtfully coordinated experiences.<br>
+  Planned around your schedule, preferences and destination.
+</p>
 
-**Private chauffeured travel and thoughtfully arranged experiences.**  
-A personal approach since 2001.
-
-[Visit our website](https://amadeusworldwide.com) &nbsp; · &nbsp; [Get in touch](mailto:admin@amadeusworldwide.com)
-
-</div>
+<p align="center">
+  <a href="https://amadeusworldwide.com">Explore our services</a> &nbsp; · &nbsp;
+  <a href="mailto:admin@amadeusworldwide.com">Get in touch</a>
+</p>
 
 ---
 
-### Welcome to Amadeus Worldwide
+### What we do
 
-Founded in 2001 by Chris Guimaraes, Amadeus Worldwide combines professional chauffeured transportation with personally arranged travel experiences for business and private travellers.
+Amadeus Worldwide arranges private chauffeured transportation for business and leisure. From airport arrivals and executive meetings to weddings, events and evenings out, we coordinate the vehicle, timing and journey details around you.
 
-From an airport arrival to a carefully coordinated itinerary, our focus is simple: respect your time, care for your comfort and make every journey feel personal.
-
-| Personal attention | Careful planning | Professional service |
+| Airport transfers | Corporate travel | Private occasions |
 | :--- | :--- | :--- |
-| Your preferences guide the journey. | Every connection deserves thought. | Attentive care, from start to finish. |
+| Considered arrivals, departures and onward connections. | Chauffeured travel for meetings, roadshows and business itineraries. | Transport for weddings, events, groups and private evenings. |
+
+### Beyond the road
+
+Our team also coordinates personally arranged travel experiences, including private helicopter journeys, yacht and boat charters, and tailored itineraries. One point of contact helps bring the different parts of your journey together.
 
 ---
 
-<div align="center">
-
-**Let’s plan your next journey.**  
-[amadeusworldwide.com](https://amadeusworldwide.com) · [+1 877 296 8002](tel:+18772968002)
-
-</div>
+<p align="center">
+  <strong>Where may we take you?</strong><br>
+  <a href="https://amadeusworldwide.com">amadeusworldwide.com</a> &nbsp; · &nbsp; +1 877 296 8002
+</p>
