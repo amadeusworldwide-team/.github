@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/354078070?s=400&v=4" alt="Amadeus Worldwide — AW crest" width="144" height="144">
+  <img src="https://raw.githubusercontent.com/amadeusworldwide-team/.github/main/profile/aw-logo.png" alt="Amadeus Worldwide — AW crest" width="144" height="144">
 </p>
 
 <h1 align="center">Private travel, personally arranged.</h1>
